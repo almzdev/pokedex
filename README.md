@@ -1,3 +1,4 @@
 # Pokédex realizada con HTML, CSS y JS
+
 - Aún no hago los retos porque me explotan en el jale 🥺
-<img src="https://github.com/LeonidasEsteban/taller-pokedex/raw/main/design/Pokedex.jpg">
+  <img src="https://github.com/almzdev/pokedex/blob/main/design/pokedex.png?raw=true">
